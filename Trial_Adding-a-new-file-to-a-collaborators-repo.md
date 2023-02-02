@@ -1,7 +1,7 @@
 Trial: Adding new files to a collaborators repo
 ================
 
-# Purple Ducks
+# Green Pigs
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you
 execute code within the notebook, the results appear beneath the code.
